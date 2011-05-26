@@ -1,3 +1,5 @@
+# PLEASE NOTE: This is a discontinued experimental release. A new version will be available soon.
+
 # diretto-service-couchapp
 
 A GeoCouch-enabled CouchApp that represents the backend persistence layer of the node.js-based service implementation.
